@@ -139,7 +139,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ch01.c" />
+    <ClCompile Include="ch1_1.c" />
+    <ClCompile Include="ch1_10.c" />
+    <ClCompile Include="ch1_11.c" />
+    <ClCompile Include="ch1_12.c" />
+    <ClCompile Include="ch1_13.c" />
+    <ClCompile Include="ch1_14.c" />
+    <ClCompile Include="ch1_15.c" />
+    <ClCompile Include="ch1_16.c" />
+    <ClCompile Include="ch1_17.c" />
+    <ClCompile Include="ch1_18.c" />
+    <ClCompile Include="ch1_19.c" />
+    <ClCompile Include="ch1_2.c" />
+    <ClCompile Include="ch1_3.c" />
+    <ClCompile Include="ch1_4.c" />
+    <ClCompile Include="ch1_5.c" />
+    <ClCompile Include="ch1_6.c" />
+    <ClCompile Include="ch1_7.c" />
+    <ClCompile Include="ch1_8.c" />
+    <ClCompile Include="ch1_9.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -18,7 +18,61 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch01.c">
+    <ClCompile Include="ch1_5.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_1.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_2.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_3.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_4.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_6.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_7.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_8.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_9.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_10.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_11.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_12.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_13.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_14.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_15.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_16.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_17.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_18.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_19.c">
       <Filter>Source Files\ch01</Filter>
     </ClCompile>
   </ItemGroup>
