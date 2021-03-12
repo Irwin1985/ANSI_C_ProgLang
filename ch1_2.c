@@ -1,7 +1,7 @@
 #include <stdio.h>
 /* Imprime una tabla de conversión de Grados Celcius a Fahrenheit */
 
-main2() {
+main_2() {
 	int fahr, celsius;
 	int lower, upper, step;
 

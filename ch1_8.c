@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main8() {
+main_8() {
 	// Leemos una secuencia de caracteres (hasta el ENTER)
 	// y la mostramos en un loop. repetimos lectura.
 	// version 1

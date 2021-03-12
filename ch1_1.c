@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-main1() {
+main_1() {
 	printf("Hola mundo!\j");
 }

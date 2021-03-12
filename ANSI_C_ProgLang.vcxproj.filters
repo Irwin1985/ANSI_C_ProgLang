@@ -16,6 +16,12 @@
     <Filter Include="Source Files\ch01">
       <UniqueIdentifier>{e12297a2-45b7-4a77-9f43-36f0c999d3c3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\ch02">
+      <UniqueIdentifier>{3dd54dbc-58b5-4950-a2bd-451b41e9e37c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ch3">
+      <UniqueIdentifier>{b22239dd-98cd-45ca-911a-dfa92a0b9abf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ch1_5.c">
@@ -74,6 +80,30 @@
     </ClCompile>
     <ClCompile Include="ch1_19.c">
       <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch_20.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1_21.c">
+      <Filter>Source Files\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="ch2_1.c">
+      <Filter>Source Files\ch02</Filter>
+    </ClCompile>
+    <ClCompile Include="ch2_2.c">
+      <Filter>Source Files\ch02</Filter>
+    </ClCompile>
+    <ClCompile Include="ch3_1.c">
+      <Filter>Source Files\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="ch3_2.c">
+      <Filter>Source Files\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="ch3_3.c">
+      <Filter>Source Files\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="ch3_4.c">
+      <Filter>Source Files\ch3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

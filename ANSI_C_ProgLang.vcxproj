@@ -88,6 +88,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <DisableSpecificWarnings>4996;4047;6001;4700</DisableSpecificWarnings>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -151,6 +152,7 @@
     <ClCompile Include="ch1_18.c" />
     <ClCompile Include="ch1_19.c" />
     <ClCompile Include="ch1_2.c" />
+    <ClCompile Include="ch1_21.c" />
     <ClCompile Include="ch1_3.c" />
     <ClCompile Include="ch1_4.c" />
     <ClCompile Include="ch1_5.c" />
@@ -158,6 +160,13 @@
     <ClCompile Include="ch1_7.c" />
     <ClCompile Include="ch1_8.c" />
     <ClCompile Include="ch1_9.c" />
+    <ClCompile Include="ch2_1.c" />
+    <ClCompile Include="ch2_2.c" />
+    <ClCompile Include="ch3_1.c" />
+    <ClCompile Include="ch3_2.c" />
+    <ClCompile Include="ch3_3.c" />
+    <ClCompile Include="ch3_4.c" />
+    <ClCompile Include="ch_20.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

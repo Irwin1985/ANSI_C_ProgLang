@@ -23,7 +23,7 @@ main_15() {
 	return 0;
 }
 
-int getline(char s[], int lim) {
+int getline2(char s[], int lim) {
 	int c = 0, i = 0;
 	for (i = 0; i < lim - 1 && (c = getchar()) != EOF && c != '\n'; ++i) {
 		s[i] = c;
@@ -36,7 +36,7 @@ int getline(char s[], int lim) {
 	return i;
 }
 
-void copy(char to[], char from[]) {
+void copy2(char to[], char from[]) {
 	int i;
 	i = 0;
 	while ((to[i] = from[i]) != '\0') {

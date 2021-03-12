@@ -2,7 +2,7 @@
 #define MAX_LINE 1000
 reverse(char source[], char target[]);
 int len(char str[]);
-main() {
+main_19() {
 	int ch = 0, counter = 0;
 	char input[MAX_LINE];
 	char my_str[MAX_LINE];
